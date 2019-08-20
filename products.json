@@ -1,0 +1,156 @@
+{
+    "buttonText": "add to cart",
+    "saleText": "Discount",
+    "products": [
+        {
+            "img": "base.12911.jpg",
+            "title": "Oils Of Life™ Twin-Ball Facial Roller",
+            "rating": 10,
+            "price": {
+                "finalPrice": 1190,
+                "oldPrice": 1390
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": true,
+                "new": false
+            },
+            "url":"#prod-1"
+        },
+        {
+            "img": "base.19879_1.jpg",
+            "title": "Cooling Gel Eye Mask",
+            "rating": 90,
+            "price": {
+                "finalPrice": 790,
+                "oldPrice": 790
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-2"
+        },
+        {
+            "img": "base.46910.jpg",
+            "title": "Secrets of the World Indian Turtle Massager",
+            "rating": 60,
+            "price": {
+                "finalPrice": 890,
+                "oldPrice": 890
+            },
+            "actions": {
+                "bestsellers": true,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-3"
+        },
+        {
+            "img": "base.82485_1.jpg",
+            "title": "Facial Massager",
+            "rating": 70,
+            "price": {
+                "finalPrice": 1500,
+                "oldPrice": 1700
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-4"
+        },
+        {
+            "img": "base.99966.jpg",
+            "title": "English Dawn Gardenia Fragrance Mist",
+            "rating": 65,
+            "price": {
+                "finalPrice": 700,
+                "oldPrice": 850
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": true
+            },
+            "url":"#prod-5"
+        },
+        {
+            "img": "base.d-45738_1.jpg",
+            "title": "Black Musk Fragrance Mist",
+            "rating": 95,
+            "price": {
+                "finalPrice": 950,
+                "oldPrice": 950
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-6"
+        },
+        {
+            "img": "base.d-81125.jpg",
+            "title": "White Musk® L'Eau Fragrance Mist",
+            "rating": 83,
+            "price": {
+                "finalPrice": 390,
+                "oldPrice": 390
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": true,
+                "new": false
+            },
+            "url":"#prod-7"
+        },
+        {
+            "img": "c25276.jpg",
+            "title": "Strawberry Clearly Glossing Conditioner Strawberry",
+            "rating": 5,
+            "price": {
+                "finalPrice": 550,
+                "oldPrice": 1100
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-8"
+        },
+        {
+            "img": "sourcefile_1078704_1_hand-wash-strawberry-l-e-250ml-a0x_brnz_inneqps018.jpg",
+            "title": "Oils of Life™ Intensely Revitalising Facial Oil",
+            "rating": 100,
+            "price": {
+                "finalPrice": 452,
+                "oldPrice": 452
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-9"
+        },
+        {
+            "img": "93493_1.jpg",
+            "title": "Aloe Eye Defence",
+            "rating": 44,
+            "price": {
+                "finalPrice": 250,
+                "oldPrice": 500
+            },
+            "actions": {
+                "bestsellers": false,
+                "eco": false,
+                "new": false
+            },
+            "url":"#prod-10"
+        }
+    ]
+}
